@@ -1,7 +1,7 @@
 import 'package:cashy_app/page/login_page.dart';
 import 'package:flutter/material.dart';
 
-void main(List<String> args) {
+void main() {
   runApp(const MyApp());
 }
 

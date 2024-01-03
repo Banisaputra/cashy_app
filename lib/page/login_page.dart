@@ -3,10 +3,6 @@ import 'package:cashy_app/components/my_textfield.dart';
 import 'package:cashy_app/components/square_tile.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(LoginPage());
-}
-
 class LoginPage extends StatelessWidget {
   LoginPage({super.key});
 
